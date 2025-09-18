@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(213, 245, 245);
+}
+input[type='text']{
+    height: 30px;
+    width: 220px;
+}
+
+input[type='submit']{
+    background-color:green;
+    color: white;
+    height: 30px;
+    width: 180px;
+    margin-left: 650px;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+#l1{
+    margin-left: 500px;
+}
+button{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 180px;
+    margin-left: 650px;
+}

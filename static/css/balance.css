@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(213, 245, 245);
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 180px;
+    margin-left: 650px;
+}
